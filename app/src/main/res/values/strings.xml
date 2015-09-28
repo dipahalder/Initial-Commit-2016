@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Dipsikha Halder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="initial_commit">Initial Commit 2016</string>
+
+    <!-- NUX Captions -->
+    <string name="nux_intro">What are you passionate about?</string>
+    <string name="nux_2">I\&apos;m passionate about art.</string>
+    <string name="nux_3">A blank canvas is a plane ticket...</string>
+    <string name="nux_4">to anywhere in the world.</string>
+    <string name="continue_text">Continue</string>
+    <string name="skip">Skip</string>
+
+    <!-- API IDs -->
+    <string name="parse_app_id">ZwZ4axC04V7xU5WnKFGCTJup6OZg7NFtxsGU3bq6</string>
+    <string name="parse_client_key">TPzhrrZMBLjsW566loSvoZF0FDJMSskWsNVsqcOP</string>
+
+
+</resources>
